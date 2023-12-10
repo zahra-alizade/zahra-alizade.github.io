@@ -1,0 +1,63 @@
+.navbar-nav{
+    font-family: Arial;
+    font-size: calc(0.8vw + 8px);
+    font-weight: 400;
+}
+
+.nav bi{
+   top: 0;
+   left: 0;
+   font-size: 25px;
+}
+img{
+    top: 0;
+    right: 0;
+}
+.product-img{
+display: block;
+max-width: 100%;
+padding: 1px;
+}
+.padding-news{
+    padding: 1px !important;
+}
+.news{
+    padding-top: 1px;
+    border-right: none !important;
+}
+.call{
+    margin-top: 25px;
+}
+.call h6{
+    padding-right: 60px;
+    font-size: calc(7px + 0.5vw);
+    color: #666666d7;
+}
+.call p{
+    padding-right: 60px;
+    font-size: calc(6px + 0.4vw);
+    color: #66666683;
+}
+.call-1 a{
+    padding-right: 0;
+    font-size: calc(5px + 0.9vw);
+    margin: 35px;
+}
+.social-menu h6{
+ font-size: calc(6px + 0.7vw);
+ color: #666666b2;
+}
+.social-menu p{
+    font-size: calc(7px + 0.4vw);
+    color: #66666683;
+}
+.about-us h5{
+    font-size: calc(4px + 0.9vw);
+    color: #666666ce;
+}
+.about-us li a{
+font-size: calc(7px + 0.7vw);
+color: #6666669c;
+font-family: arial;
+font-weight: 300;
+}

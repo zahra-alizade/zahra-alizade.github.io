@@ -1,0 +1,42 @@
+.navbar-nav{
+    font-family: Arial;
+    font-size: calc(6px + 0.4vw) !important;
+}
+.contuct-1{
+    padding-right: 51px !important;
+    padding-left: 30px !important;
+    padding-top: 51px !important;
+    padding-bottom: 51px !important;
+}
+.about-us li a{
+    text-decoration: none;
+}
+.call h6{
+    padding-right: 60px;
+    font-size: calc(7px + 0.5vw);
+    color: #666666d7;
+}
+.call p{
+    padding-right: 60px;
+    font-size: calc(6px + 0.4vw);
+    color: #66666683;
+}
+.social-menu h6{
+    font-size: calc(6px + 0.6vw);
+    color: #6666667a;
+   }
+   .social-menu p{
+       font-size: calc(4px + 0.4vw);
+       color: #66666683;
+   }
+   .about-us h5{
+       font-size: calc(2px + 0.4vw);
+       color: #6666668f;
+   }
+   .about-us li a{
+   font-size: calc(7px + 0.5vw);
+   color: #6666669c;
+   font-family: arial;
+   font-weight: 300;
+   }
+

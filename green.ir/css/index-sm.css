@@ -1,0 +1,48 @@
+.navbar-brand img{
+    margin: auto;
+}
+.social-menu h6{
+    font-size: calc(4px + 0.3vw);
+    color: #66666683;
+   }
+   .social-menu p{
+       font-size: calc(5px + 0.4vw);
+       color: #66666660;
+   }
+   .about-us h5{
+       font-size: calc(4px + 0.4vw);
+       color: #666666ce;
+   }
+   .about-us li a{
+    text-decoration: none;
+}
+.call h6{
+    padding-right: 60px;
+    font-size: calc(4px + 0.4vw);
+    color: #66666663;
+}
+.call p{
+    padding-right: 60px;
+    font-size: calc(4px + 0.4vw);
+    color: #66666683;
+}
+.social-menu h6{
+    font-size: calc(6px + 0.7vw);
+    color: #666666b2;
+   }
+   .social-menu p{
+       font-size: calc(7px + 0.4vw);
+       color: #66666683;
+   }
+   .about-us h5{
+       font-size: calc(4px + 0.9vw);
+       color: #666666ce;
+   }
+   .about-us li a{
+   font-size: calc(7px + 0.7vw);
+   color: #6666669c;
+   font-family: arial;
+   font-weight: 300;
+   }
+
+   
