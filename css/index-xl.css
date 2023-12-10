@@ -1,0 +1,25 @@
+.contuct{
+    background-color: #d465ef !important;
+    top: 30%;
+    right: 2%;
+    }
+    .contuct a:hover{
+    border: 1px solid white;
+    }
+    .section-title h3{
+        font-size: calc(21px + 2vw);
+        }
+    .portfolio-area h3{
+      font-size: calc( 20px + 2vw);
+        letter-spacing: 3px;
+        font-weight: 500;
+        line-height: 60px;
+    }
+    .single-counter span{
+        font-size: calc(20px + 2vw);
+        font-weight: 700;
+      }
+      .discussion h3{
+        font-size: calc(17px + 3vw);
+        padding-top: 80px;
+       }

@@ -1,0 +1,87 @@
+
+.header{
+    top: 100%;
+    left: 0;
+    padding-top: 50px;
+    background-color: black;
+}
+.navbar{
+background-color: #4c4c4c;
+}
+.navbar-brand img{
+    position: absolute;
+    top: -100%;
+    left: 2%;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.model-man .man{
+width: 380px;
+height: 240px;
+top: 172px;
+left: 0;
+ }
+.model-man{
+ height: 500px;
+}
+.milan h3{
+font-size: calc(15px + 2vw);
+letter-spacing: 2px;
+font-weight: 600;
+    
+}
+.milan span{
+    font-size: calc(5px + 2vw);
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+.section-title h3{
+font-size: calc( 15px + 2vw);
+text-align: center;
+ }
+ .portfolio{
+    padding-top: 80px;
+    padding-bottom: 340px;
+  }
+  .portfolio-area h3{
+    font-size: calc(20px + 0.8vw);
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .portfolio-area span{
+    font-size: calc(10px + 0.7vw);
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .about-1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 45px;
+    padding-left: 45px;
+  }
+  .single-counter{
+    padding-top: 40px;
+    padding-bottom: 43px;
+    margin-bottom: 30px;
+  }
+  .single-counter span{
+    font-size: 40px;
+    font-weight: 400;
+  }
+  .single-counter p{
+    font-size: 18px;
+  }
+  .carousel-single p{
+    font-size: calc(13px + 0.7vw);
+   }
+   .discussion h3{
+    font-size: calc(20px + 2vw);
+   }
+   .discussion p{
+    font-size: calc(8px + 1vw);
+   }
+   .media-list ul li a{
+    font-size: 16px;
+    padding: 7px;
+    }

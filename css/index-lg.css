@@ -1,0 +1,43 @@
+.contuct{
+background-color: #d465ef !important;
+top: 30%;
+right: 2%;
+}
+.contuct a:hover{
+border: 1px solid white;
+}
+.milan h3{
+    font-size: calc(30px + 1vw);
+    text-align: center;
+    line-height: 55px;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+.milan span{
+    font-size: 20px;
+    text-align: center;
+    line-height: 65px;
+}
+.section-title h3{
+    font-size: calc( 25px + 2vw);
+    }
+.portfolio-area h3{
+        font-size: calc( 20px + 2vw);
+        letter-spacing: 3px;
+        font-weight: 500;
+}
+.single-counter span{
+    font-size: calc(17px + 2vw);
+    font-weight: 700;
+  }
+  .carousel-single p{
+    font-size: calc(12px + 1vw);
+   }
+   .discussion h3{
+    font-size: calc(15px + 3vw);
+    padding-top: 80px;
+   }
+   .discussion p{
+    font-size: calc(10px + 1vw);
+   }
+   

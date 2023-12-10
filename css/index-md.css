@@ -1,0 +1,68 @@
+
+.header{
+    top: 100%;
+    left: 0;
+    padding-top: 50px;
+    background-color: black;
+}
+.navbar{
+background-color: #4c4c4c;
+}
+.navbar-brand img{
+    position: absolute;
+    top: -100%;
+    left: 2%;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.model-man .man{
+width: 480px;
+height: 310px;
+top: 172px;
+left: 0;
+}
+.model-man{
+height: 600px;
+}
+
+.milan h3{
+    font-size: calc(20px + 2vw);
+    
+}
+.milan span{
+    font-size: calc(10px + 2vw);
+}
+.section-title h3{
+    font-size: calc( 20px + 2vw);
+    }
+.portfolio-area h3{
+    font-size: calc( 20px + 2vw);
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+.portfolio-img{
+    height: 420px;
+}
+.single-counter span{
+    font-size: calc(20px + 2vw);
+    font-weight: 700;
+  }
+  .single-counter{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .carousel-single p{
+    font-size: calc(10px + 1vw);
+   }
+   .discussion h3{
+    font-size: calc(20px + 3vw);
+   }
+   .discussion p{
+    font-size: calc(10px + 1vw);
+   }
+   .media-list ul li a{
+    font-size: 14px;
+    padding: 4px;
+    }
