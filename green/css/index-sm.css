@@ -17,12 +17,10 @@
     text-decoration: none;
 }
 .call h6{
-    padding-right: 60px;
     font-size: calc(4px + 0.4vw);
     color: #66666663;
 }
 .call p{
-    padding-right: 60px;
     font-size: calc(4px + 0.4vw);
     color: #66666683;
 }

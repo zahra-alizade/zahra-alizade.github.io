@@ -4,12 +4,12 @@
     font-weight: 400;
 }
 .call h6{
-    padding-right: 60px;
+   
     font-size: calc(7px + 0.5vw);
     color: #666666d7;
 }
 .call p{
-    padding-right: 60px;
+    
     font-size: calc(6px + 0.4vw);
     color: #66666683;
 }
